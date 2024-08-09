@@ -2,7 +2,6 @@ import React from "react";
 import { CountdownTimer } from "./components/CountdownTimer";
 import { WordsContainer } from "./components/WordsContainer";
 import GeneratedWords from "./components/GeneratedWords";
-import RestartButton from "./components/RestartButton";
 import Results from "./components/Results";
 import UserTypings from "./components/UserTypings";
 import useEngine from "./hooks/useEngine";
